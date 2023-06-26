@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687778803 source:e:\c language\calculate factorial of a user given number\main.c
+	<stdio.h>
+	<stdlib.h>
+
