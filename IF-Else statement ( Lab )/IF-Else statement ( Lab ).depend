@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1686563538 source:e:\c\if-else statement ( lab )\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1686564748 source:e:\c\if-else statement ( lab )\from (switch).c
+	<stdio.h>
+	<stdlib.h>
+
