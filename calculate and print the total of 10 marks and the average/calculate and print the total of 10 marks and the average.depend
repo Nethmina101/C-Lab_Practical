@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1687778247 source:e:\c language\calculate and print the total of 10 marks and the average\main.c
+	<stdio.h>
+	<stdlib.h>
+
