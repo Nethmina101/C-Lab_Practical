@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683551569 source:e:\c\input name,birth\main.c
+	<stdio.h>
+	<stdlib.h>
+
